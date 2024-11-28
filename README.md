@@ -16,13 +16,14 @@ Check out my repositories to see the projects I've been working on. I’m consta
 
 ## Skills
 
-- **Programming Languages**: Java, C, C++, R, SQL, HTML, PHP, JavaScript, CSS, Assembly
-- **Databases**: MySQL, MySQL Workbench
-- **Tools & Frameworks**: Eclipse, Visual Studio, Visual Studio Code, Azure DevOps Services, VMWare Workstation, Wireshark, Cisco Packet Tracer
-- **Operating Systems**: Linux (Ubuntu), Windows 10, Windows 11
-- **Version Control**: Git, GitHub
-- **Productivity & Collaboration**: Microsoft Office (Word, PowerPoint, Outlook, Teams)
-- **Languages**: English (Native), French (Intermediate, conversational)
+- **Programming Languages**: Java, C, C++, Python, R, SQL, HTML, JavaScript, CSS, PHP, Assembly  
+- **Software Development & Tools**: Visual Studio, Visual Studio Code, Eclipse, Git, GitHub, Microsoft Azure DevOps, VMWare Workstation  
+- **Web Development & Frameworks**: JavaFX, Java Swing, C++ Nana, PyQt5  
+- **Databases**: MySQL, MySQL Workbench  
+- **Networking & Security**: Wireshark, Cisco Packet Tracer  
+- **Operating Systems**: Linux (Ubuntu), Windows 10, Windows 11  
+- **Productivity & Collaboration**: Microsoft Office (Word, PowerPoint, Outlook, Teams, SharePoint)  
+- **Languages**: English (Fluent), French (Conversational)
 
 ## Connect with Me
 
