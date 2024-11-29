@@ -63,6 +63,12 @@ A **PyQt5 desktop application** that fetches weather data using a RESTful API:
 - Displays current weather conditions for user-selected locations.  
 - Technical Skills: Python, PyQt5, API integration.  
 
+### [Wordle Clone](https://github.com/SerenePrince/Wordle-Clone)  
+An **interactive Wordle clone** built with **React** and **JavaScript**:  
+- Implements dynamic letter status (gray, yellow, green) based on game progress.  
+- Features a responsive, user-friendly UI with **CSS** transitions.  
+- Technical Skills: JavaScript, React, CSS, HTML.
+
 ---
 
 # 📫 Contact  
