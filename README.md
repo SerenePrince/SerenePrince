@@ -6,7 +6,7 @@ I’m passionate about **software development**, **IT**, and exploring the ever-
 ---
 
 ## 📫 Let's Connect
-- 🌐 **Portfolio**: [sereneprince.github.io/My-Portfolio](https://sereneprince.github.io/My-Portfolio/)  
+- 🌐 **Portfolio**: [sereneprince.github.io/My-Portfolio](https://sereneprince.github.io/Portfolio-2025/)  
 - 💼 **LinkedIn**: [linkedin.com/in/nparknguyen](https://www.linkedin.com/in/nparknguyen/)  
 - 📧 **Email**: [noahparknguyen@gmail.com](mailto:noahparknguyen@gmail.com)  
 - 🐙 **GitHub**: You're already here! 😊  
