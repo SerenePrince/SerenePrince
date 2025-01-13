@@ -1,7 +1,7 @@
 # 👋 Hi, I'm **Noah Park-Nguyen**  
 A **Computer Engineering Technology - Computer Science** student at **Algonquin College**.  
 
-I’m passionate about **software development**, **IT**, and exploring the ever-evolving field of **computer science**. I thrive on learning new technologies, solving challenging problems, and building innovative solutions that make an impact.
+I’m exploring  **software development**, **IT**, and the ever-evolving field of **computer science**. I love starting new projects, almost as much as i love leaving them unfinished.
 
 ---
 
