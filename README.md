@@ -25,5 +25,3 @@ A student at **Algonquin College** studying **Computer Science**. I'm all about 
 💡 *"Don't worry boys! The Engineer, is Engi-here!"* – *Dr. Dell Conagher*
 
 ---
-
-This version incorporates a more interesting tone in your summary while listing your tech stack in a simple, concise manner. Let me know if you'd like any adjustments!
