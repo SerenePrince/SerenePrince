@@ -1,7 +1,15 @@
-# 👋 Hi, I'm **Noah Park-Nguyen**  
-A **Computer Engineering Technology - Computer Science** student at **Algonquin College**.  
+---
 
-I’m exploring  **software development**, **IT**, and the ever-evolving field of **computer science**. I love starting new projects, almost as much as i love leaving them unfinished.
+# 👋 Hi, I'm **Noah Park-Nguyen**  
+A student at **Algonquin College** studying **Computer Science**. I'm all about software development, IT, and everything **fullstack**. Whether it's building back-end systems, crafting sleek front-end interfaces, or exploring new technologies, I'm always up for a challenge. I love starting new projects, almost as much as I love leaving them unfinished.
+
+---
+
+## 🔧 **Tech Stack**
+
+- **Backend**: Java, Node.js, MongoDB, Spring Boot, Express  
+- **Frontend**: React, Tailwind CSS  
+- **Tools & Others**: Git, GitHub, Postman, Visual Studio Code, IntelliJ IDEA
 
 ---
 
@@ -10,11 +18,12 @@ I’m exploring  **software development**, **IT**, and the ever-evolving field o
 - 💼 **LinkedIn**: [linkedin.com/in/nparknguyen](https://www.linkedin.com/in/nparknguyen/)  
 - 📧 **Email**: [noahparknguyen@gmail.com](mailto:noahparknguyen@gmail.com)
 - 📄 **Resume**: [NoahPNResume2025.pdf](https://github.com/user-attachments/files/18265142/NoahPNResume2025.pdf)
-- 🐙 **GitHub**: You're already here! 😊 
-
+- 🐙 **GitHub**: You're already here! 😊
 
 ---
 
 💡 *"Don't worry boys! The Engineer, is Engi-here!"* – *Dr. Dell Conagher*
 
 ---
+
+This version incorporates a more interesting tone in your summary while listing your tech stack in a simple, concise manner. Let me know if you'd like any adjustments!
