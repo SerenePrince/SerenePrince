@@ -7,10 +7,17 @@ A student at **Algonquin College** studying **Computer Science**. I'm all about 
 
 ## 🔧 **Tech Stack**
 
-[!Backend](https://skillicons.dev/icons?i=java,nodejs,mongodb,spring,maven,express)](https://skillicons.dev)
-[!Frontend](https://skillicons.dev/icons?i=react,tailwind,vite,html,css,js)](https://skillicons.dev)
-[!Tools](https://skillicons.dev/icons?i=git,github,vscode,idea,postman,js)](https://skillicons.dev)
-[!Other](https://skillicons.dev/icons?i=python,c,cpp)](https://skillicons.dev)
+### Backend
+![Backend](https://skillicons.dev/icons?i=java,nodejs,mongodb,spring,maven,express)
+
+### Frontend
+![Frontend](https://skillicons.dev/icons?i=react,tailwind,vite,html,css,js)
+
+### Tools
+![Tools](https://skillicons.dev/icons?i=git,github,vscode,idea,postman,js)
+
+### Other
+![Other](https://skillicons.dev/icons?i=python,c,cpp)
 
 ---
 
