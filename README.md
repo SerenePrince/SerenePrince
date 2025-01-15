@@ -7,9 +7,10 @@ A student at **Algonquin College** studying **Computer Science**. I'm all about 
 
 ## 🔧 **Tech Stack**
 
-- **Backend**: Java, Node.js, MongoDB, Spring Boot, Express  
-- **Frontend**: React, Tailwind CSS  
-- **Tools & Others**: Git, GitHub, Postman, Visual Studio Code, IntelliJ IDEA
+[!Backend](https://skillicons.dev/icons?i=java,nodejs,mongodb,spring,maven,express)](https://skillicons.dev)
+[!Frontend](https://skillicons.dev/icons?i=react,tailwind,vite,html,css,js)](https://skillicons.dev)
+[!Tools](https://skillicons.dev/icons?i=git,github,vscode,idea,postman,js)](https://skillicons.dev)
+[!Other](https://skillicons.dev/icons?i=python,c,cpp)](https://skillicons.dev)
 
 ---
 
