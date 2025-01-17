@@ -14,7 +14,7 @@ A student at **Algonquin College** studying **Computer Science**. I'm all about 
 ![Frontend](https://skillicons.dev/icons?i=react,tailwind,vite,html,css,js)
 
 ### Tools
-![Tools](https://skillicons.dev/icons?i=git,github,vscode,idea,postman)
+![Tools](https://skillicons.dev/icons?i=git,github,vscode,idea)
 
 ### Other
 ![Other](https://skillicons.dev/icons?i=python,c,cpp)
