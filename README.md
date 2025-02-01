@@ -25,7 +25,7 @@ A student at **Algonquin College** studying **Computer Science**. I'm all about 
 - 🌐 **Portfolio**: [sereneprince.github.io/noahpn](https://sereneprince.github.io/noahpn/)  
 - 💼 **LinkedIn**: [linkedin.com/in/nparknguyen](https://www.linkedin.com/in/nparknguyen/)  
 - 📧 **Email**: [noahparknguyen@gmail.com](mailto:noahparknguyen@gmail.com)
-- 📄 **Resume**: [NoahPNResume2025.pdf](https://github.com/user-attachments/files/18569723/NoahPNResume2025.pdf)
+- 📄 **Resume**: [NoahPNResume2025.pdf](https://github.com/user-attachments/files/18627573/NoahPNResume2025.pdf)
 - 🐙 **GitHub**: You're already here! 😊
 
 ---
