@@ -1,23 +1,20 @@
+---
+
 ![Banner](https://github.com/user-attachments/assets/926eb8e2-7c44-4ae9-8b87-7ff214c2b594)
 
 ---
 
 ### 🌈 About Me
 
-- 🎓 I'm a student at **Algonquin College** studying **Computer Science**.  
-- 💻 I specialize in **software development**, with a recent focus on **full-stack** and **IT**.  
-- 🏐 I love **volleyball**, staying active, and playing **video games**.  
+- 🎓 **Computer Science** @ Algonquin College  
+- 💻 **Software Dev** | Full-Stack & IT  
+- 🏐 **Volleyball, gaming, and staying active**  
 
 ---
 
-### 🚀 My Tech Stack
+### 🚀 Tech Stack & Tools
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=mongodb,express,react,nodejs,tailwind,vscode" />
-</a>
-
-### 🛠️ Other Skills
-<a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=java,spring,maven,idea" />
+  <img src="https://skillicons.dev/icons?i=mongodb,express,react,nodejs,tailwind,vscode,java,spring,maven,idea,git,github&perline=6" />
 </a>
 
 ### 📚 Currently Learning
@@ -32,7 +29,7 @@
 - **🌍 Portfolio**: [sereneprince.github.io/noahpn](https://sereneprince.github.io/noahpn/)  
 - **🔗 LinkedIn**: [linkedin.com/in/nparknguyen](https://www.linkedin.com/in/nparknguyen/)  
 - **📧 Email**: [noahparknguyen@gmail.com](mailto:noahparknguyen@gmail.com)  
-- **📄 Resume**: [NoahPNResume2025.pdf](https://github.com/user-attachments/files/18742115/NoahPNResume2025.pdf)
+- **📄 Resume**: [NoahPNResume2025.pdf](https://github.com/user-attachments/files/18742115/NoahPNResume2025.pdf)  
 - **🐙 GitHub**: You're already here!  
 
 ---
