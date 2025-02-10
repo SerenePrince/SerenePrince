@@ -2,7 +2,7 @@
 
 ---
 
-<h3 align="center">🌈 About Me</h3>
+###🌈 About Me
 
 - 🎓 I'm a student at **Algonquin College** studying **Computer Science**.  
 - 💻 I specialize in **software development**, with a recent focus on **full-stack** and **IT**.  
@@ -10,21 +10,21 @@
 
 ---
 
-<h3 align="center">🚀 My Tech Stack</h3>
+###🚀 My Tech Stack
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=mongodb,express,react,nodejs,tailwind,vscode" />
   </a>
 </p>
 
-<h3 align="center">🛠️ Other Skills</h3>
+###🛠️ Other Skills
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=java,spring,maven,idea" />
   </a>
 </p>
 
-<h3 align="center">📚 Currently Learning</h3>
+###📚 Currently Learning
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=python,c,cpp" />
@@ -33,7 +33,7 @@
 
 ---
 
-<h3 align="center">🌐 Here's Where to Find Me!</h3>
+###🌐 Here's Where to Find Me!
 
 - **🌍 Portfolio**: [sereneprince.github.io/noahpn](https://sereneprince.github.io/noahpn/)  
 - **🔗 LinkedIn**: [linkedin.com/in/nparknguyen](https://www.linkedin.com/in/nparknguyen/)  
