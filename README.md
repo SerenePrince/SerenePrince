@@ -2,6 +2,6 @@
 
 ---
 
-[Portfolio](https://sereneprince.github.io/noahpn/) ● [LinkedIn](https://www.linkedin.com/in/nparknguyen/) ● [Email](mailto:noahparknguyen@gmail.com)  
+![Portfolio](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
 
 ---
