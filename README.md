@@ -3,9 +3,9 @@
 ---
 
 <p align="center">
-  [Portfolio](https://sereneprince.github.io/noahpn/) •
-  [LinkedIn](https://www.linkedin.com/in/nparknguyen/) •
-  [Email](mailto:noahparknguyen@gmail.com)
+  <a href="https://sereneprince.github.io/noahpn/">Portfolio</a> •
+  <a href="https://www.linkedin.com/in/nparknguyen/">LinkedIn</a> •
+  <a href="mailto:noahparknguyen@gmail.com">Email</a>
 </p>
 
 ---
