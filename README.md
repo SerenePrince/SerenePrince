@@ -2,8 +2,13 @@
 
 ---
 
-- Portfolio: [sereneprince.github.io/noahpn](https://sereneprince.github.io/noahpn/)  
-- LinkedIn: [linkedin.com/in/nparknguyen](https://www.linkedin.com/in/nparknguyen/)  
-- Email: [noahparknguyen@gmail.com](mailto:noahparknguyen@gmail.com)  
+<p align="center">
+Portfolio: [sereneprince.github.io/noahpn](https://sereneprince.github.io/noahpn/)  
+LinkedIn: [linkedin.com/in/nparknguyen](https://www.linkedin.com/in/nparknguyen/)  
+Email: [noahparknguyen@gmail.com](mailto:noahparknguyen@gmail.com)
+</p>
+
 
 ---
+
+
