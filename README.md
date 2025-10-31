@@ -3,12 +3,13 @@
 ---
 
 <p align="center">
-Portfolio: [sereneprince.github.io/noahpn](https://sereneprince.github.io/noahpn/)  
-LinkedIn: [linkedin.com/in/nparknguyen](https://www.linkedin.com/in/nparknguyen/)  
-Email: [noahparknguyen@gmail.com](mailto:noahparknguyen@gmail.com)
+  <a href="https://sereneprince.github.io/noahpn/">Portfolio</a> •
+  <a href="https://www.linkedin.com/in/nparknguyen/">LinkedIn</a> •
+  <a href="mailto:noahparknguyen@gmail.com">Email</a>
 </p>
-
 
 ---
 
-
+<p align="center">
+  <sub><sup><em>Bapanada</em></sup></sub>
+</p>
