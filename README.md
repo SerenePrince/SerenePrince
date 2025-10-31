@@ -1,8 +1,4 @@
----
-
-![Banner](https://github.com/user-attachments/assets/926eb8e2-7c44-4ae9-8b87-7ff214c2b594)
-
----
+<img width="1280" height="720" alt="Banner" src="https://github.com/user-attachments/assets/4ab01c1b-6a9e-4892-a16c-f5d69ad3c2d3" />
 
 ### 🌈 About Me
 
